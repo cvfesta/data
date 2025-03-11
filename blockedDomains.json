@@ -11,11 +11,15 @@
       "appsflyersdk.com",
       "scorecardresearch.com",
       "braze.com",
-      "adjust.com"
+      "adjust.com",
+      "googleads.g.doubleclick.net"
     ],
     "logging": [
       "firebaselogging-pa.googleapis.com",
       "crashlytics.com"
+    ],
+    "cdn": [
+      "gstatic.com"
     ]
   }
 }
