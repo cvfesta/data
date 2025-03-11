@@ -1,0 +1,34 @@
+{
+  "blockedDomains": {
+    "malware": [
+      "badmalware.com",
+      "virusdomain.net",
+      "trojanattack.org"
+    ],
+    "phishing": [
+      "fakebanklogin.com",
+      "fraudsite.net",
+      "scammerpage.org"
+    ],
+    "ads": [
+      "annoyingads.com",
+      "trackersite.net",
+      "popupsrus.org"
+    ],
+    "gambling": [
+      "onlinecasino.com",
+      "bettinghub.net",
+      "pokerscam.org"
+    ],
+    "adult": [
+      "explicitcontent.com",
+      "nsfwvideos.net",
+      "adultsite.org"
+    ],
+    "socialMedia": [
+      "distractingapp.com",
+      "socialnetwork.net",
+      "timewaster.org"
+    ],
+  }
+}
