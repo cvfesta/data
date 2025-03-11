@@ -12,14 +12,17 @@
       "scorecardresearch.com",
       "braze.com",
       "adjust.com",
-      "doubleclick.net"
+      "googleads.g.doubleclick.net",
+      "singular.net",
+      "firebaseinstallations.googleapis.com"
     ],
     "logging": [
       "firebaselogging-pa.googleapis.com",
       "crashlytics.com"
     ],
-    "cdn": [
-      "gstatic.com"
+    "performance": [
+      "gstatic.com",
+      "cedexis.com"
     ]
   }
 }
