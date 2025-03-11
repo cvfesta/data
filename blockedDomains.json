@@ -12,7 +12,7 @@
       "scorecardresearch.com",
       "braze.com",
       "adjust.com",
-      "googleads.g.doubleclick.net"
+      "doubleclick.net"
     ],
     "logging": [
       "firebaselogging-pa.googleapis.com",
