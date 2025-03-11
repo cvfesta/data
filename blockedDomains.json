@@ -10,7 +10,12 @@
       "app-measurement.com",
       "appsflyersdk.com",
       "scorecardresearch.com",
-      "braze.com"
+      "braze.com",
+      "adjust.com"
+    ],
+    "logging": [
+      "firebaselogging-pa.googleapis.com",
+      "crashlytics.com"
     ]
   }
 }
