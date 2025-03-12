@@ -21,8 +21,14 @@
       "crashlytics.com"
     ],
     "performance": [
-      "gstatic.com",
       "cedexis.com"
+    ],
+    "socialMedia": [
+      "app-analytics-services.com",
+      "graph-fallback.facebook.com",
+      "graph.instagram.com",
+      "graph-fallback.instagram.com",
+      "graph.facebook.com"
     ]
   }
 }
